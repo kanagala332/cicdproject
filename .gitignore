@@ -1,0 +1,11 @@
+**/target/
+*.war
+*.jar
+**/dist/
+**/node_modules/
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
